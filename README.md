@@ -1,3 +1,3 @@
-# RULES---Duels
+# RULES - Duels
 
 voila le repo hehe
